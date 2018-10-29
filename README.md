@@ -1,2 +1,2 @@
 # exercise2
-gerrit tutorial repo1
+gerrit tutorial repo2
